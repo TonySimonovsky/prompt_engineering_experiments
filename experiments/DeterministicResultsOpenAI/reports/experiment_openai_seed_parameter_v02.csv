@@ -1,0 +1,139 @@
+datetime_generated,status,synth_data,generation,llm_params,messages,messages_template,data,llm_usage,assessor.assess_text_variability
+2023-12-12 07:49:29,generated,"World War II began with the invasion of Poland by Nazi Germany. The roots of the conflict, however, lay in the complex web of alliances, treaties, and historical grievances that developed in the aftermath of World War I.
+
+The Treaty of Versailles, which ended World War I, imposed heavy reparations and territorial losses on Germany. This created a sense of humiliation and resentment among the German people. The economic turmoil of the 1920s, including the Great Depression, further destabilized the country, creating fertile ground for the rise of Adolf Hitler and his National Socialist German Workers' Party (Nazi Party).
+
+Hitler, who became Chancellor of Germany in 1933, pursued an aggressive foreign policy aimed at undoing the Treaty of Versailles and expanding German territory. He remilitarized the Rhineland in 1936, annexed Austria in the Anschluss of 1938, and then seized the Sudetenland from Czechoslovakia with the acquiescence of","World War II began with the invasion of Poland by Nazi Germany. The roots of the conflict, however, lay in the complex web of alliances, treaties, and historical grievances that developed in the aftermath of World War I.
+
+The Treaty of Versailles, which ended World War I, imposed heavy reparations and territorial losses on Germany. This created a sense of humiliation and resentment among the German people. The economic turmoil of the 1920s, including the Great Depression, further destabilized the country, creating fertile ground for the rise of Adolf Hitler and his National Socialist German Workers' Party (Nazi Party).
+
+Hitler, who became Chancellor of Germany in 1933, pursued an aggressive foreign policy aimed at undoing the Treaty of Versailles and expanding German territory. He remilitarized the Rhineland in 1936, annexed Austria in the Anschluss of 1938, and then seized the Sudetenland from Czechoslovakia with the acquiescence of","{""model"": ""gpt-4-1106-preview"", ""max_tokens"": 200, ""top_p"": 1e-06, ""temperature"": 0, ""timeout"": 30}","[{""role"": ""user"", ""content"": ""Describe how WW2 started.""}]","[{""role"": ""user"", ""content"": ""{user_message}""}]","{""user_message"": ""Describe how WW2 started."", ""expected_answer"": ""\""\""""}","{""expected_prompt_tokens"": 0, ""prompt_tokens"": 13, ""expected_completion_tokens"": 0, ""completion_tokens"": 200, ""expected_total_tokens"": 0, ""total_tokens"": 213, ""expected_total_cost"": 0.0, ""total_cost"": 0.00613, ""generation_time"": 10.912248134613037}","{""difference_with_reference"": 1.0}"
+2023-12-12 07:49:39,generated,"World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I sowed the seeds of resentment and economic hardship, which Adolf Hitler later exploited to gain support.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, most notably Adolf Hitler's Nazi Party in Germany in 1933, Benito Mussolini's Fascist Party in Italy, and the militarist faction in Japan.
+
+3. Expansionist Policies: These regimes pursued aggressive expansionist policies. Germany and Italy formed the Rome-Berlin Axis in 1936, and Japan joined the alliance in 1937, forming the Axis Powers.
+
+4. Annexation of Austria and Czechoslovakia: Hitler annexed Austria in the Anschluss of 1938","World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I sowed the seeds of resentment and economic hardship, which Adolf Hitler later exploited to gain support.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, most notably Adolf Hitler's Nazi Party in Germany in 1933, Benito Mussolini's Fascist Party in Italy, and the militarist faction in Japan.
+
+3. Expansionist Policies: These regimes pursued aggressive expansionist policies. Germany and Italy formed the Rome-Berlin Axis in 1936, and Japan joined the alliance in 1937, forming the Axis Powers.
+
+4. Annexation of Austria and Czechoslovakia: Hitler annexed Austria in the Anschluss of 1938","{""model"": ""gpt-4-1106-preview"", ""max_tokens"": 200, ""top_p"": 1e-06, ""temperature"": 0, ""timeout"": 30}","[{""role"": ""user"", ""content"": ""Describe how WW2 started.""}]","[{""role"": ""user"", ""content"": ""{user_message}""}]","{""user_message"": ""Describe how WW2 started."", ""expected_answer"": ""\""\""""}","{""expected_prompt_tokens"": 0, ""prompt_tokens"": 13, ""expected_completion_tokens"": 0, ""completion_tokens"": 200, ""expected_total_tokens"": 0, ""total_tokens"": 213, ""expected_total_cost"": 0.0, ""total_cost"": 0.00613, ""generation_time"": 10.104261875152588}","{""difference_with_reference"": 0.7110336055584989}"
+2023-12-12 07:49:50,generated,"World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I sowed seeds of resentment and economic hardship, which contributed to the rise of Adolf Hitler and the Nazi Party.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, including Germany, Italy, and Japan. These nations pursued aggressive expansionist policies, seeking to revise the post-World War I international order and expand their territories.
+
+3. Expansion of Nazi Germany: Under Hitler, Germany began to violate the Treaty of Versailles by rearming and remilitarizing the Rhineland. Germany also annexed Austria in the Anschluss of 1938 and then demanded the Sudetenland, a region of Czechoslovakia with a significant ethnic German population","World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I sowed seeds of resentment and economic hardship, which contributed to the rise of Adolf Hitler and the Nazi Party.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, including Germany, Italy, and Japan. These nations pursued aggressive expansionist policies, seeking to revise the post-World War I international order and expand their territories.
+
+3. Expansion of Nazi Germany: Under Hitler, Germany began to violate the Treaty of Versailles by rearming and remilitarizing the Rhineland. Germany also annexed Austria in the Anschluss of 1938 and then demanded the Sudetenland, a region of Czechoslovakia with a significant ethnic German population","{""model"": ""gpt-4-1106-preview"", ""max_tokens"": 200, ""top_p"": 1e-06, ""temperature"": 0, ""timeout"": 30}","[{""role"": ""user"", ""content"": ""Describe how WW2 started.""}]","[{""role"": ""user"", ""content"": ""{user_message}""}]","{""user_message"": ""Describe how WW2 started."", ""expected_answer"": ""\""\""""}","{""expected_prompt_tokens"": 0, ""prompt_tokens"": 13, ""expected_completion_tokens"": 0, ""completion_tokens"": 200, ""expected_total_tokens"": 0, ""total_tokens"": 213, ""expected_total_cost"": 0.0, ""total_cost"": 0.00613, ""generation_time"": 11.478857040405273}","{""difference_with_reference"": 0.7760057107227695}"
+2023-12-12 07:50:03,generated,"World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I sowed seeds of resentment and economic hardship, which Adolf Hitler later exploited to gain support for his expansionist ambitions.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, most notably Adolf Hitler's Nazi regime in Germany (1933), Benito Mussolini's fascist regime in Italy (1922), and the militarist faction in Japan. These regimes pursued aggressive expansionist policies.
+
+3. Expansionist Policies and Early Aggressions: Prior to the outbreak of World War II, there were several acts of aggression by these powers:
+   - Japan invaded Manchuria in 1931 and later China in 1937.
+   - Italy invaded Ethiopia in 193","World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I sowed seeds of resentment and economic hardship, which Adolf Hitler later exploited to gain support for his expansionist ambitions.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, most notably Adolf Hitler's Nazi regime in Germany (1933), Benito Mussolini's fascist regime in Italy (1922), and the militarist faction in Japan. These regimes pursued aggressive expansionist policies.
+
+3. Expansionist Policies and Early Aggressions: Prior to the outbreak of World War II, there were several acts of aggression by these powers:
+   - Japan invaded Manchuria in 1931 and later China in 1937.
+   - Italy invaded Ethiopia in 193","{""model"": ""gpt-4-1106-preview"", ""max_tokens"": 200, ""top_p"": 1e-06, ""temperature"": 0, ""timeout"": 30}","[{""role"": ""user"", ""content"": ""Describe how WW2 started.""}]","[{""role"": ""user"", ""content"": ""{user_message}""}]","{""user_message"": ""Describe how WW2 started."", ""expected_answer"": ""\""\""""}","{""expected_prompt_tokens"": 0, ""prompt_tokens"": 13, ""expected_completion_tokens"": 0, ""completion_tokens"": 200, ""expected_total_tokens"": 0, ""total_tokens"": 213, ""expected_total_cost"": 0.0, ""total_cost"": 0.00613, ""generation_time"": 13.375846147537231}","{""difference_with_reference"": 0.6016417761254524}"
+2023-12-12 07:50:17,generated,"World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I sowed the seeds of resentment and desire for revenge among Germans, which Adolf Hitler would later exploit to gain support.
+
+2. Rise of Totalitarian Regimes: The 1920s and 1930s saw the rise of totalitarian regimes in Germany, Italy, and Japan, with leaders like Hitler, Benito Mussolini, and Emperor Hirohito seeking to expand their nations' territories.
+
+3. Expansionist Policies: Germany and Italy, under the fascist leadership of Hitler and Mussolini, pursued aggressive expansionist policies. Japan also sought to expand its empire in Asia.
+
+4. Appeasement: European powers, particularly Britain and France, followed a policy of appeasement, hoping to avoid another large-scale war by making concessions to the aggressive demands","World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I sowed the seeds of resentment and desire for revenge among Germans, which Adolf Hitler would later exploit to gain support.
+
+2. Rise of Totalitarian Regimes: The 1920s and 1930s saw the rise of totalitarian regimes in Germany, Italy, and Japan, with leaders like Hitler, Benito Mussolini, and Emperor Hirohito seeking to expand their nations' territories.
+
+3. Expansionist Policies: Germany and Italy, under the fascist leadership of Hitler and Mussolini, pursued aggressive expansionist policies. Japan also sought to expand its empire in Asia.
+
+4. Appeasement: European powers, particularly Britain and France, followed a policy of appeasement, hoping to avoid another large-scale war by making concessions to the aggressive demands","{""model"": ""gpt-4-1106-preview"", ""max_tokens"": 200, ""top_p"": 1e-06, ""temperature"": 0, ""timeout"": 30}","[{""role"": ""user"", ""content"": ""Describe how WW2 started.""}]","[{""role"": ""user"", ""content"": ""{user_message}""}]","{""user_message"": ""Describe how WW2 started."", ""expected_answer"": ""\""\""""}","{""expected_prompt_tokens"": 0, ""prompt_tokens"": 13, ""expected_completion_tokens"": 0, ""completion_tokens"": 200, ""expected_total_tokens"": 0, ""total_tokens"": 213, ""expected_total_cost"": 0.0, ""total_cost"": 0.00613, ""generation_time"": 13.192664861679077}","{""difference_with_reference"": 0.620610830163003}"
+2023-12-12 07:50:27,generated,"World War II began with the invasion of Poland by Nazi Germany. The roots of the conflict, however, lay in the complex web of alliances, treaties, and historical grievances following World War I and the global economic turmoil of the 1920s and 1930s.
+
+After World War I, the Treaty of Versailles placed heavy reparations and territorial losses on Germany. The treaty was intended to prevent Germany from becoming a threat again but instead left a legacy of bitterness and resentment among Germans. The economic hardships of the Great Depression further destabilized the country, creating fertile ground for the rise of Adolf Hitler and his National Socialist (Nazi) Party.
+
+Hitler's aggressive foreign policy aimed at overturning the post-World War I international order and expanding German territory. He pursued a strategy of rearmament and territorial expansion, beginning with the remilitarization of the Rhineland in 1936, the annexation of Austria (Anschluss) in 1938, and","World War II began with the invasion of Poland by Nazi Germany. The roots of the conflict, however, lay in the complex web of alliances, treaties, and historical grievances following World War I and the global economic turmoil of the 1920s and 1930s.
+
+After World War I, the Treaty of Versailles placed heavy reparations and territorial losses on Germany. The treaty was intended to prevent Germany from becoming a threat again but instead left a legacy of bitterness and resentment among Germans. The economic hardships of the Great Depression further destabilized the country, creating fertile ground for the rise of Adolf Hitler and his National Socialist (Nazi) Party.
+
+Hitler's aggressive foreign policy aimed at overturning the post-World War I international order and expanding German territory. He pursued a strategy of rearmament and territorial expansion, beginning with the remilitarization of the Rhineland in 1936, the annexation of Austria (Anschluss) in 1938, and","{""model"": ""gpt-4-1106-preview"", ""max_tokens"": 200, ""top_p"": 1e-06, ""temperature"": 0, ""timeout"": 30}","[{""role"": ""user"", ""content"": ""Describe how WW2 started.""}]","[{""role"": ""user"", ""content"": ""{user_message}""}]","{""user_message"": ""Describe how WW2 started."", ""expected_answer"": ""\""\""""}","{""expected_prompt_tokens"": 0, ""prompt_tokens"": 13, ""expected_completion_tokens"": 0, ""completion_tokens"": 200, ""expected_total_tokens"": 0, ""total_tokens"": 213, ""expected_total_cost"": 0.0, ""total_cost"": 0.00613, ""generation_time"": 10.477808952331543}","{""difference_with_reference"": 0.8975447895448677}"
+2023-12-12 07:50:39,generated,"World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I created widespread resentment and economic hardship, which contributed to the rise of Adolf Hitler and the Nazi Party.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, including Germany, Italy, and Japan. These regimes, particularly Nazi Germany under Hitler, pursued aggressive expansionist policies.
+
+3. Expansion of Nazi Germany: Hitler's Germany began to expand its territory in the mid-1930s, reoccupying the Rhineland in 1936, annexing Austria in the Anschluss of 1938, and then seizing the Sudetenland from Czechoslovakia with the Munich Agreement in 1938. Despite these aggressive moves, Britain and France followed","World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I created widespread resentment and economic hardship, which contributed to the rise of Adolf Hitler and the Nazi Party.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, including Germany, Italy, and Japan. These regimes, particularly Nazi Germany under Hitler, pursued aggressive expansionist policies.
+
+3. Expansion of Nazi Germany: Hitler's Germany began to expand its territory in the mid-1930s, reoccupying the Rhineland in 1936, annexing Austria in the Anschluss of 1938, and then seizing the Sudetenland from Czechoslovakia with the Munich Agreement in 1938. Despite these aggressive moves, Britain and France followed","{""model"": ""gpt-4-1106-preview"", ""max_tokens"": 200, ""top_p"": 1e-06, ""temperature"": 0, ""timeout"": 30}","[{""role"": ""user"", ""content"": ""Describe how WW2 started.""}]","[{""role"": ""user"", ""content"": ""{user_message}""}]","{""user_message"": ""Describe how WW2 started."", ""expected_answer"": ""\""\""""}","{""expected_prompt_tokens"": 0, ""prompt_tokens"": 13, ""expected_completion_tokens"": 0, ""completion_tokens"": 200, ""expected_total_tokens"": 0, ""total_tokens"": 213, ""expected_total_cost"": 0.0, ""total_cost"": 0.00613, ""generation_time"": 11.735408782958984}","{""difference_with_reference"": 0.7418925252939884}"
+2023-12-12 07:50:57,generated,"World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I created widespread resentment and economic hardship, setting the stage for the rise of Adolf Hitler and the Nazi Party.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, including Germany, Italy, and Japan. These regimes pursued aggressive expansionist policies.
+
+3. Hitler's Aggression: Adolf Hitler, who became Chancellor of Germany in 1933, pursued a foreign policy aimed at overturning the Treaty of Versailles and expanding German territory. He remilitarized the Rhineland in 1936, annexed Austria in the Anschluss of 1938, and then demanded the Sudetenland region of Czechoslovakia, which was ceded to","World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I created widespread resentment and economic hardship, setting the stage for the rise of Adolf Hitler and the Nazi Party.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, including Germany, Italy, and Japan. These regimes pursued aggressive expansionist policies.
+
+3. Hitler's Aggression: Adolf Hitler, who became Chancellor of Germany in 1933, pursued a foreign policy aimed at overturning the Treaty of Versailles and expanding German territory. He remilitarized the Rhineland in 1936, annexed Austria in the Anschluss of 1938, and then demanded the Sudetenland region of Czechoslovakia, which was ceded to","{""model"": ""gpt-4-1106-preview"", ""max_tokens"": 200, ""top_p"": 1e-06, ""temperature"": 0, ""timeout"": 30}","[{""role"": ""user"", ""content"": ""Describe how WW2 started.""}]","[{""role"": ""user"", ""content"": ""{user_message}""}]","{""user_message"": ""Describe how WW2 started."", ""expected_answer"": ""\""\""""}","{""expected_prompt_tokens"": 0, ""prompt_tokens"": 13, ""expected_completion_tokens"": 0, ""completion_tokens"": 200, ""expected_total_tokens"": 0, ""total_tokens"": 213, ""expected_total_cost"": 0.0, ""total_cost"": 0.00613, ""generation_time"": 17.918872117996216}","{""difference_with_reference"": 0.8261674577299938}"
+2023-12-12 07:51:08,generated,"World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles: The harsh terms of the Treaty of Versailles, which ended World War I, created economic and political instability in Germany. This discontent paved the way for the rise of Adolf Hitler and the Nazi Party.
+
+2. Expansionist Policies: Hitler's aggressive expansionist policies aimed at creating a greater German Reich. He defied the Treaty of Versailles by rearming Germany and making territorial demands.
+
+3. Annexation of Austria: In March 1938, Germany annexed Austria in the Anschluss, which was largely unopposed by European powers.
+
+4. Munich Agreement: In September 1938, the Munich Agreement allowed Germany to annex the Sudetenland, a region of Czechoslovakia with a significant ethnic German population. British Prime Minister Neville Chamberlain's policy of appeasement was intended to prevent war but ultimately","World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles: The harsh terms of the Treaty of Versailles, which ended World War I, created economic and political instability in Germany. This discontent paved the way for the rise of Adolf Hitler and the Nazi Party.
+
+2. Expansionist Policies: Hitler's aggressive expansionist policies aimed at creating a greater German Reich. He defied the Treaty of Versailles by rearming Germany and making territorial demands.
+
+3. Annexation of Austria: In March 1938, Germany annexed Austria in the Anschluss, which was largely unopposed by European powers.
+
+4. Munich Agreement: In September 1938, the Munich Agreement allowed Germany to annex the Sudetenland, a region of Czechoslovakia with a significant ethnic German population. British Prime Minister Neville Chamberlain's policy of appeasement was intended to prevent war but ultimately","{""model"": ""gpt-4-1106-preview"", ""max_tokens"": 200, ""top_p"": 1e-06, ""temperature"": 0, ""timeout"": 30}","[{""role"": ""user"", ""content"": ""Describe how WW2 started.""}]","[{""role"": ""user"", ""content"": ""{user_message}""}]","{""user_message"": ""Describe how WW2 started."", ""expected_answer"": ""\""\""""}","{""expected_prompt_tokens"": 0, ""prompt_tokens"": 13, ""expected_completion_tokens"": 0, ""completion_tokens"": 200, ""expected_total_tokens"": 0, ""total_tokens"": 213, ""expected_total_cost"": 0.0, ""total_cost"": 0.00613, ""generation_time"": 10.810474157333374}","{""difference_with_reference"": 0.7678842116097996}"
+2023-12-12 07:51:28,generated,"World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I created widespread resentment and economic hardship, setting the stage for the rise of Adolf Hitler and the Nazi Party.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, including Germany, Italy, and Japan. These regimes pursued aggressive expansionist policies.
+
+3. Hitler's Aggression: Adolf Hitler, who became Chancellor of Germany in 1933, pursued a foreign policy aimed at overturning the Treaty of Versailles and expanding German territory. He remilitarized the Rhineland in 1936, annexed Austria in the Anschluss of 1938, and then demanded the Sudetenland region of Czechoslovakia, which was ceded to","World War II began with the invasion of Poland by Nazi Germany. The key events leading up to the start of the war include:
+
+1. Treaty of Versailles (1919): The harsh terms imposed on Germany after its defeat in World War I created widespread resentment and economic hardship, setting the stage for the rise of Adolf Hitler and the Nazi Party.
+
+2. Rise of Totalitarian Regimes: In the 1920s and 1930s, totalitarian regimes took power in several countries, including Germany, Italy, and Japan. These regimes pursued aggressive expansionist policies.
+
+3. Hitler's Aggression: Adolf Hitler, who became Chancellor of Germany in 1933, pursued a foreign policy aimed at overturning the Treaty of Versailles and expanding German territory. He remilitarized the Rhineland in 1936, annexed Austria in the Anschluss of 1938, and then demanded the Sudetenland region of Czechoslovakia, which was ceded to","{""model"": ""gpt-4-1106-preview"", ""max_tokens"": 200, ""top_p"": 1e-06, ""temperature"": 0, ""timeout"": 30}","[{""role"": ""user"", ""content"": ""Describe how WW2 started.""}]","[{""role"": ""user"", ""content"": ""{user_message}""}]","{""user_message"": ""Describe how WW2 started."", ""expected_answer"": ""\""\""""}","{""expected_prompt_tokens"": 0, ""prompt_tokens"": 13, ""expected_completion_tokens"": 0, ""completion_tokens"": 200, ""expected_total_tokens"": 0, ""total_tokens"": 213, ""expected_total_cost"": 0.0, ""total_cost"": 0.00613, ""generation_time"": 20.21991801261902}","{""difference_with_reference"": 0.8261674577299938}"
